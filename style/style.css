@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(245, 225, 187);
+}
+
+.container {
+    margin: 20px 50px;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    margin: 30px;
+}
+
+image {
+    border-radius: 30px;
+    margin: 30px;
+}
+
+p {
+    font-size: 16px;
+    margin: 30px;
+    text-align: left;
+}
